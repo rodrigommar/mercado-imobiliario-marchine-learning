@@ -11,7 +11,7 @@ Este projeto de Machine Learning tem como objetivo ilustrar os principais nívei
 8. Disponibilizar em produção, monitorar e fazer a manutenção do sistema.
 <br>
 
-**Abordar o problema e  analisar o panorama geral.**
+# 1. Abordar o problema e  analisar o panorama geral.
    <br>O projeto Habitacional Minha Casa, identificou problema em determinar o valor de imóveis na região municipal, consequetemente, gostaria de prever uma média de preço baseados em indicadores
 
   _**Defina o objeitvo em termos de Negócio.**_ 
@@ -46,4 +46,5 @@ Este projeto de Machine Learning tem como objetivo ilustrar os principais nívei
   _**Enumere as suposições que vocês fiseram até agora**_
 
   _**Verifique essas suposições, se possível**_
-   
+
+# 2. Obter Dados
