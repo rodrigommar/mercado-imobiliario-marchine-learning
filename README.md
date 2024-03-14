@@ -10,7 +10,8 @@ Este projeto de Machine Learning tem como objetivo ilustrar os principais nívei
 7. Apresentar a solução.
 8. Disponibilizar em produção, monitorar e fazer a manutenção do sistema.
 <br>
-1. **Abordar o problema e  analisar o panorama geral.**
+
+**Abordar o problema e  analisar o panorama geral.**
    <br>O projeto Habitacional Minha Casa, identificou problema em determinar o valor de imóveis na região municipal, consequetemente, gostaria de prever uma média de preço baseados em indicadores
 
   _**Defina o objeitvo em termos de Negócio.**_ 
@@ -28,6 +29,9 @@ Este projeto de Machine Learning tem como objetivo ilustrar os principais nívei
 
   _**Qual a medida de desempenho ?**_
    <br> RMSE e MAE
+   <br>Essa métrica é usada em problemas de regressão para avaliar do modelo. Esta métrica mede a média das difrenças quadráticas entre as previsões feitas pelo modelo e os valores reais.
+   O RMSE fornece uma medida de quanto o modelo erra em suas previsões.
+   Quanto menor o valor de RMSE, melhor o desempenho do modelo. 
     
   _**A medida de desempenho esta alinhada com o objetivo do negócio**_
 
@@ -42,15 +46,4 @@ Este projeto de Machine Learning tem como objetivo ilustrar os principais nívei
   _**Enumere as suposições que vocês fiseram até agora**_
 
   _**Verifique essas suposições, se possível**_
-
    
-   
-
-   Abordagem: Supervisionado
-   Tarefa: Regressão
-   Técnicas de aprendizagem em batch
-
-   Medida de Desempenho: RMSE.
-   Essa métrica é usada em problemas de regressão para avaliar do modelo. Esta métrica mede a média das difrenças quadráticas entre as previsões feitas pelo modelo e os valores reais.
-   O RMSE fornece uma medida de quanto o modelo erra em suas previsões.
-   Quanto menor o valor de RMSE, melhor o desempenho do modelo. 
