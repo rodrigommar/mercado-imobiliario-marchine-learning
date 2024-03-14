@@ -9,25 +9,25 @@ Este projeto de Machine Learning tem como objetivo ilustrar os principais nívei
 6. Aperfeiçoar o modelo.
 7. Apresentar a solução.
 8. Disponibilizar em produção, monitorar e fazer a manutenção do sistema.
-
+<br>
 1. **Abordar o problema e  analisar o panorama geral.**
-   O projeto Habitacional Minha Casa, identificou problema em determinar o valor de imóveis na região municipal, consequetemente, gostaria de prever uma média de preço baseados em indicadores
+   <br>O projeto Habitacional Minha Casa, identificou problema em determinar o valor de imóveis na região municipal, consequetemente, gostaria de prever uma média de preço baseados em indicadores
 
   _**Defina o objeitvo em termos de Negócio.**_ 
-   Como primeira ação, vamos **criar um modelo de preços** baseado no indicadores para o setor imobiliário com os dados do censo.
+   <br>Como primeira ação, vamos **criar um modelo de preços** baseado no indicadores para o setor imobiliário com os dados do censo.
    Indicadores: Bairros (regiões), população, renda média, preço médio do ímovel
 
    _**Como a solução será usada?**_
-     Ficamos sabendo pelo gerente de projetos que o resultado do modelo e outros sinais alimetarão outro sistema de AM.
+    <br> Ficamos sabendo pelo gerente de projetos que o resultado do modelo e outros sinais alimetarão outro sistema de AM.
      O sistema de downstream irá informar se vale a pena investir na area.
 
   _**Existe soluções atuais, se sim, quais?**_
 
   **_Qual será a abordagem (supervisionado, não supervisionado,online, batch, etc)_**
-    Supervisionado
+    <br>Supervisionado
 
   _**Qual a medida de desempenho ?**_
-    RMSE e MAE
+   <br> RMSE e MAE
     
   _**A medida de desempenho esta alinhada com o objetivo do negócio**_
 
