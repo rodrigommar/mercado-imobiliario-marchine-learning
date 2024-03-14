@@ -1,6 +1,6 @@
 # mercado-imobiliario-marchine-learning
-Projeto de Machine Learning, tem como objetivo ilustrar os principais níveis de um projeto de ML. Trata-se de um problema real, porem fictício. Não se trata de aprendizado do mercado imobiliário.
-Steps:
+Este projeto de Machine Learning tem como objetivo ilustrar os principais níveis de um projeto de ML. Trata-se de um problema real, porém fictício. Não se trata de aprendizado do mercado imobiliário.
+<br>Steps:
 1. Analisar o panorama geral.
 2. Obter os dados.
 3. Identificar e visualizar os dados para obter informações úteis.
