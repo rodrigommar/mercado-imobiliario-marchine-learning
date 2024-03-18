@@ -48,3 +48,26 @@ Este projeto de Machine Learning tem como objetivo ilustrar os principais nívei
   _**Verifique essas suposições, se possível**_
 
 # 2. Obter Dados
+   <br> **Nota**: É importante automatizar algumas tarefas para facilitar na obtenção de dados com mais facilidade.
+   <br>
+   _**Liste o que é necessário e quanto de dados**_
+   
+   _**Encontre e documente onde você pode obter os dados**_
+   
+   _**Verifique quanto de espaço é preciso para armazenar os dados**_
+   
+   _**Obtenha autorização para manipular os dados**_
+   
+   _**Obternha permissão de acesso**_
+   
+   _**Criar um workspace**_
+   
+   _**Obter os dados**_
+   
+   _**Converter os dados (DataFrame)**_
+   
+   _**Cuidado com as informações confidenciais (exluir ou oculta-las)**_
+   
+   _**Vrificar o tamnho e tipo de dados (serie atemporal, geograficos, amostrados, numericos)**_
+   
+   _**separe os dados em teste e treinamento**_
