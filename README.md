@@ -48,26 +48,39 @@ Este projeto de Machine Learning tem como objetivo ilustrar os principais nívei
   _**Verifique essas suposições, se possível**_
 
 # 2. Obter Dados
-   <br> **Nota**: É importante automatizar algumas tarefas para facilitar na obtenção de dados com mais facilidade.
-   <br>
-   _**Liste o que é necessário e quanto de dados**_
+   <br> **Nota**: É importante automatizar algumas tarefas para facilitar na obtenção de dados com mais facilidade.<br>
+   
+   _**Liste os dados que você precisa e de quanto precisa**_
+   <br> Os dados usados neste projeto são reais, porém não estão atualizados.
    
    _**Encontre e documente onde você pode obter os dados**_
+   <br> https://github.com/ageron/handson-ml2/tree/master/datasets/housing
    
    _**Verifique quanto de espaço é preciso para armazenar os dados**_
    
    _**Obtenha autorização para manipular os dados**_
+   <br> Fale com o responsável pela base de dados, caso os dados sejam retirados de um site, é sempre bom citar a fonte.
+   <br> Se a compania tem um setor de controle de dados, peça permissão e autprização para manipular os dados, pois pode haver dados sensíveis.
    
-   _**Obternha permissão de acesso**_
+   _**Obtenha permissão de acesso**_
+   <br> Toda empresa tem um responsável pelo gerenciamento de dados, formalize por e-mail a necessidade de acessar os dados. Mantenha uma relação cordial e respeitosa com o responsável pelo gerenciamento das informações que você deseja obter. 
    
    _**Criar um workspace**_
+   <br> Crie um workspace de acordo com suas necessidades, porém um bom workspace pode cinluir:
+      <br> Padronização: Estrutura e organização das pastas pode garantir uma melhor compreensão  e navvegação por todos os membros do time.
+      <br> Versionamento e controle de mudanças: Onde várias pessoas contribuem com o mesmo projeto é importante estar configurado para um gestão de versionbamento e controle de mundanças.
+      <br> Compartilhar recursos e ferramentas: Tools, documentação,  e bibliotecas são essenciais para a equipe.
+      <br> Ambiente de Desenvolvimento Integrado (IDE): Uma IDE com todas as configurações e extensões necessárias para facilitar o desenvolvimento.
    
    _**Obter os dados**_
+   <br> A relaidade pode ser muito diferente dos projetos acadêmicos, onde trabalhamos com datasets compartilhados e de fácil acesso na internet. Mas quando precisamos minerar esses dados da internet.
+   <br> Nesse momento da jornada, é necessário proatividade pra juntar uma base de dados que façam sentido para o projeto. <br> No entanto, na maioria das vezes você entrará num time onde a base de dados existe e estão convertidas de acordo com o interesse do time.
    
    _**Converter os dados (DataFrame)**_
+   <br>Nesta fase é onde o profissional precisa ter a competência de uma Cientista de Dados, pois exigirá esforço para tratar os dados, converter alguns dados, manipular dataframes, editar, e talvez exluir.
    
-   _**Cuidado com as informações confidenciais (exluir ou oculta-las)**_
+   _**Cuidado com as informações confidenciais (excluir ou oculta-las)**_
    
-   _**Vrificar o tamnho e tipo de dados (serie atemporal, geograficos, amostrados, numericos)**_
+   _**Verificar o tamanho e tipo de dados (serie atemporal, geograficos, amostrados, numericos)**_
    
    _**separe os dados em teste e treinamento**_
